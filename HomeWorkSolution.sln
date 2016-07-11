@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWConsole", "HWConsole\HWConsole.csproj", "{9A9721D3-E7C0-4EB3-8DE5-0B935E0D6A6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWConsoleBackground", "HWConsoleBackground\HWConsoleBackground.csproj", "{35958B71-324F-479B-B104-A4EE25A85F1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A9721D3-E7C0-4EB3-8DE5-0B935E0D6A6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A9721D3-E7C0-4EB3-8DE5-0B935E0D6A6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A9721D3-E7C0-4EB3-8DE5-0B935E0D6A6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A9721D3-E7C0-4EB3-8DE5-0B935E0D6A6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35958B71-324F-479B-B104-A4EE25A85F1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35958B71-324F-479B-B104-A4EE25A85F1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35958B71-324F-479B-B104-A4EE25A85F1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35958B71-324F-479B-B104-A4EE25A85F1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
