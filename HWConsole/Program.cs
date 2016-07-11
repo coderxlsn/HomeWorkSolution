@@ -10,6 +10,8 @@ namespace HWConsole
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Artur");
+            Console.ReadKey();
         }
     }
 }
